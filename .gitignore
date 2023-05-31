@@ -20,3 +20,36 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+*.log
+*.tmp
+*.swp
+*.bak
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+
+# Ignore build and distribution directories
+# __pycache__/
+*.egg-info/
+dist/
+build/
+#
+# # Ignore virtual environment directories
+venv/
+env/
+.virtualenv/
+#
+# # Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+#
+ # Ignore database files
+*.sqlite3
+*.db
+#
+# # Ignore OS generated files
+ ehthumbs.db
