@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+tqdm
+openai
+db_tools
+pqdm
+multiprocessing
+langchain
+nltk
